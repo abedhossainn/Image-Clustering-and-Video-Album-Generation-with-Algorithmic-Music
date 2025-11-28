@@ -1,3 +1,5 @@
-# Ignore venv and CI folders
+# Ignore venv, CI, generated assets, videos
 .venv/
 .github/
+assets/generated_music/
+videos/
